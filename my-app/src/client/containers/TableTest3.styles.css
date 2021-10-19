@@ -1,0 +1,41 @@
+#title {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
+
+#students {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+ 
+  width: 100%;
+}
+
+#students td,
+#students th {
+  padding: 8px;
+}
+
+#students tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+#students tr:hover {
+  background-color: #ddd;
+}
+
+#students th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  color: #5270BE;
+  border-bottom:3px solid #5270BE;
+}
+
+.flex {
+  display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:90%;
+    margin-top:30px;
+}

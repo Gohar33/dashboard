@@ -1,0 +1,25 @@
+.table-container-wrapper {
+    border: 4px solid black;
+    width:87%;
+    height: 80%;
+    border: 1.00081px solid #F0F0F0;
+    box-shadow: 4.00325px 4.00325px 4.00325px rgba(0, 0, 0, 0.25);
+    border-radius: 20.0163px;
+    margin-left:100px;
+    margin-top:40px;
+    background-color:#fff;
+}
+
+.table-container {
+    border: transparent;
+    width:93%;
+    margin:30px;
+     margin-top:40px;
+     margin-left:50px;
+     background-color:#fff;
+}
+
+
+
+
+

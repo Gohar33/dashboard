@@ -1,0 +1,42 @@
+.data-picker {
+    background-color:#9A5990;
+    border-radius:20px;
+    padding:10px;
+
+  
+}
+
+.data-wrapper {
+    outline: none !important;
+    border:none;
+    color:white;
+ 
+}
+
+.react-daterange-picker__wrapper {
+    border:none !important;
+}
+
+.react-daterange-picker__inputGroup__input  {
+    color:white;
+}
+
+.react-daterange-picker__button:enabled:hover .react-daterange-picker__button__icon, .react-daterange-picker__button:enabled:focus .react-daterange-picker__button__icon {
+    stroke: #5270BE !important;
+}
+
+.react-daterange-picker__button svg {
+    stroke:white;
+}
+
+.react-calendar__tile--active.react-calendar__tile--active:enabled:hover, .react-calendar__tile--active:enabled:focus {
+    background:#9A5990 !important;
+}
+
+.react-calendar__tile--active {
+    background:#9A5990 !important;
+}
+
+.react-calendar__tile--now {
+    background:  #5270BE !important;
+}

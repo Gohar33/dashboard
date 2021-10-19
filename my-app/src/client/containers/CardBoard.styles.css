@@ -1,0 +1,23 @@
+
+.header {
+    margin-top:60px;
+    margin-left:100px;
+    
+}
+
+.modal-button {
+    border:none;
+    background:transparent;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    color: #5270BE;
+    padding:0;
+}
+
+.modal-back-drop {
+    height:100%;
+    position:fixed;
+    transition:all 1.3s;
+    width:100%;
+}

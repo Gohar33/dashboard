@@ -1,0 +1,32 @@
+.card-primary {
+    width: 30%;
+    height:40%;
+    border-radius:20px;
+    border: 5px solid #5270BE;
+    /* border: 5px solid rgba(33, 220, 125, 1); */
+    box-shadow: 0px 3.71001px 3.71001px rgba(0, 0, 0, 0.25);
+    display:flex;
+    flex-direction: column;
+}
+
+.card-secondary {
+    width: 30%;
+    height:40%;
+    border-radius:20px;
+    border: 5px solid #5270BE;
+    /* rgba(0, 57, 248, 1) */
+    /* border: 5px solid rgba(255, 197, 48, 1); */
+    box-shadow: 0px 3.71001px 3.71001px rgba(0, 0, 0, 0.25);
+    display:flex;
+    flex-direction: column;
+}
+
+.card-title {
+    color: #9A5990;
+    font-size:25px;
+    text-align: center;
+}
+
+.card-result {
+    text-align: center;
+}

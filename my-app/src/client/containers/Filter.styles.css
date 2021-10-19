@@ -1,0 +1,13 @@
+.navigation {
+    margin-top:60px;
+    margin-left:120px;
+   
+}
+
+.filter-components {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:80%;
+    margin-top:30px;
+}

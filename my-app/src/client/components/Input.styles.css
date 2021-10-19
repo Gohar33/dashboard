@@ -1,0 +1,61 @@
+.inputComponentContainer {
+    display: flex;
+    width: 15%;
+    padding: 6px 15px 5px 15px;
+    background-color: #9A5990;
+    color:#fff; 
+  }
+
+  .inputComponentContainer:hover {
+  
+    background-color: #9A5990;
+    opacity:70%;
+    
+  }
+
+
+  .inputTextContainer {
+    flex-grow: 1;
+   
+  }
+  
+  .inputTextContainer input {
+    width: 80%;
+    height: 100%;
+    border: 0;
+    padding-left:20px;
+    background-color: #9A5990;
+    color:#fff;
+ outline:none;
+  }
+
+  .inputTextContainer input::placeholder {
+    color:#fff;
+  }
+  
+  .roundBorder {
+    border-radius: 99999em;
+  }
+
+
+  
+  
+  
+  
+
+  
+  
+ 
+  
+ 
+  
+ 
+  
+
+  
+
+  
+  
+  
+ 
+  

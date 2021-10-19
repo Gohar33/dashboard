@@ -1,0 +1,23 @@
+.option-container {
+ padding:5px;
+ background-color:#9A5990;
+border-radius:10px;
+color:#fff;
+outline:none;
+}
+
+.option-container:hover {
+    background-color:#9A5990;
+    opacity:70%;
+}
+
+
+
+ 
+
+
+
+
+
+
+
